@@ -1,0 +1,14 @@
+{
+  "name": "newattributes",
+  "version": "1.0.0",
+  "description": "script to convert new attributes to JSON or ITs",
+  "main": "newAttributes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed Fildes",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
